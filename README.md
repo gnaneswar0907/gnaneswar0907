@@ -43,7 +43,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
 ![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
 
-- 📫 How to reach me: <gxg170000@utdallas.edu>;
+📫 How to reach me: <gxg170000@utdallas.edu>;
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=gnaneswar0907&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
