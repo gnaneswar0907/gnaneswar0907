@@ -7,15 +7,6 @@
 <a href="https://www.linkedin.com/in/gnaneswarg">
   <img alt="Gnaneswar's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
-<a href="https://www.facebook.com/gnaneswar.G">
-  <img alt="Gnaneswar's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
-</a>
-<a href="https://www.instagram.com/___ashish._">
-  <img alt="Gnaneswar's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-<a href="https://open.spotify.com/user/swkg0iu15sylqhz94jsvmefak?si=0E45NgwHSASKQraM_IUTzQ">
-  <img alt="Gnaneswar's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
-</a>
 </p>
 
 💻- I'm a **Graduate Student 👨🏽‍💼 [@UTD](https://utdallas.edu)**. I also worked as a **Web Developer / Software Engineer [@Copart](https://www.copart.com/)**. 
